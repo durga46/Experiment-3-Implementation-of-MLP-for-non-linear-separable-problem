@@ -48,8 +48,8 @@ Test for the XOR patterns.
 
 ## PROGRAM
 ```py
-\nDeveloped by: DurgaDeviP
-Register Number: 212220230015\n
+Developed by: DurgaDeviP
+Register Number: 212220230015
 
 import numpy as np
 import pandas as pd
